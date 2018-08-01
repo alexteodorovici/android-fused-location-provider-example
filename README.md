@@ -7,7 +7,7 @@ Simple Android example for getting the user's location using the fused location 
 * getLastLocation with OnSuccessListener example for showing the location to the user.
 * fully functional example 
 
-Make sure to add the implementation 'com.google.android.gms:play-services-location:15.0.1' inside the build.gradle for the module:app in the dependencies section.
+Make sure to add the <code>implementation 'com.google.android.gms:play-services-location:15.0.1'</code> inside the build.gradle for the module:app in the dependencies section.
 
 <p align="center">
   <img width="350"  src="device-2018-08-01-110258.png?raw=true">
